@@ -12,12 +12,14 @@
 ## ⚙️ Instalación
 
 1.  **Clonar el repositorio:**
+```
     git clone git@github.com:lucsducks/izifile-frontend.git
     cd izifile-frontend
-2.  **Instalar las dependencias:**
-    `flutter pub get`
+```
+3.  **Instalar las dependencias:**
+   ```flutter pub get```
 
-3.  **Configurar el archivo .env:**
+4.  **Configurar el archivo .env:**
 
 Crea un archivo `.env` en la raíz del proyecto y añade las siguientes variables de entorno:
 
