@@ -47,12 +47,11 @@ También puedes generar versiones para otras plataformas utilizando Flutter:
 ## 📸 Capturas de Pantalla
 
 ### 📱 Android
-
-![Iniciar sesion izifile](/assets/demo/logina.jpg)
-![Hosts](/assets/demo/hosta.jpg)
-![Terminal](/assets/demo/terminala.jpg)
-![Sftp](/assets/demo/sftpa.jpg)
-![Vista de sftp](/assets/demo/sftpavi.jpg)
+<img src="./assets/demo/logina.jpg" alt="Login Android" height="500">
+<img src="./assets/demo/hosta.jpg" alt="Hosts Android" height="500">
+<img src="./assets/demo/terminala.jpg" alt="Terminal Android" height="500">
+<img src="./assets/demo/sftpavi.jpg" alt="SFTP Android" height="500">
+<img src="./assets/demo/sftpavi.jpg" alt="SFTP Android Vista" height="500">
 
 ### 💻 Windows
 
